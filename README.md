@@ -5,8 +5,8 @@ Merge multiple graphs with x- and y-coordinates into one graph
 ## Example
 
 ```golang
-// Graph 1
 ...
+// Graph 1
 x1 := []float64{0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
 y1 := []float64{0, 2, 4, 6, 8, 10, 12, 14, 16, 18}
 // Graph 2
